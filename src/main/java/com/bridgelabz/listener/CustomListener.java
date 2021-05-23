@@ -1,10 +1,11 @@
 package com.bridgelabz.listener;
 
+import com.bridgelabz.base.Base;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class CustomListener implements ITestListener
+public class CustomListener extends Base implements ITestListener
 {
 
     @Override
@@ -30,6 +31,7 @@ public class CustomListener implements ITestListener
     @Override
     public void onTestFailure(ITestResult result) {
         System.out.println("Failure of test cases and its details are : "+result.getName());
+        takeScreenshot(result.getMethod().getMethodName());
     }
 
     @Override

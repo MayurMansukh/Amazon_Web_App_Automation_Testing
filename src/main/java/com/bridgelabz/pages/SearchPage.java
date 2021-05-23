@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class SearchPage {
-    public WebDriver driver;
+    WebDriver driver;
 
     //constructor
     public SearchPage(WebDriver driver){

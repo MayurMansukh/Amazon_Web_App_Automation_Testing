@@ -31,6 +31,6 @@ public class Amazon_WebPage extends Base {
         searchObj.select_categories_dropdown();
         searchObj.type_search_text("Mouse");
         searchObj.click_search_button();
-        Assert.assertEquals(driver.getTitle(),"Amazon.in : Mouse");
+        Assert.assertEquals(driver.getTitle(),"Amazon.in : ");
     }
 }
