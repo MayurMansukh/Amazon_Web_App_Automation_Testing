@@ -15,7 +15,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners(CustomListener.class)
-public class Amazon_WebPage extends Base {
+public class Amazon_WebPage extends Base{
 
     @Test
     public void verify_login_Page(){
@@ -33,4 +33,5 @@ public class Amazon_WebPage extends Base {
         searchObj.click_search_button();
         Assert.assertEquals(driver.getTitle(),"Amazon.in : ");
     }
+
 }
