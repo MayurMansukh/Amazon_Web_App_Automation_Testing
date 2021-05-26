@@ -34,7 +34,6 @@ public class Amazon_WebPage extends ExcelUtils  {
         searchObj.select_categories_dropdown();
         searchObj.type_search_text("Mouse");
         searchObj.click_search_button();
-        //Assert.assertEquals(driver.getCurrentUrl(),"https://www.amazon.in/s?k=Mouse&i=computers&ref=nb_sb_noss");
         if(driver.getCurrentUrl().matches("https://www.amazon.in/s?k=Mouse&i=computers&ref=nb_sb_noss")) {
          }
         else if (driver.getCurrentUrl().matches("https://www.amazon.in/s?k=Mouse&i=computers&ref=nb_sb_noss_2")) {

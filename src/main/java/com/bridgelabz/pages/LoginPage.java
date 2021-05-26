@@ -33,11 +33,12 @@ public class LoginPage {
          signIn_Btn.click();
     }
 
-    public void login(String id, String pass){
+    public boolean login(String id, String pass){
         email_txt.sendKeys(id);
         email_submit_btn.click();
         password_txt.sendKeys(pass);
         password_submit_btn.click();
+        return true;
     }
 
 }
