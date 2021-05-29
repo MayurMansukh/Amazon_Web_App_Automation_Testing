@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/admin/IdeaProjects/Amz_Web_App_Automation/src/test/java/com/bridgelabz/testcase/Amazon_WebPage.java">
+        <classes>
+            <class name="com.bridgelabz.testcase.Amazon_WebPage">
+                <methods>
+                    <include name="verify_login_Page"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

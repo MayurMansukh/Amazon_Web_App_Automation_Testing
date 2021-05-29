@@ -1,0 +1,228 @@
+[main] DEBUG com.bridgelabz.utils.Log4jPropertiesConfigurationExample  - Log4j appender configuration is successful !!
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test
+[main] INFO  com.bridgelabz.base.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.base.Base  - Entering Username and Password
+[main] INFO  com.bridgelabz.base.Base  - select department
+[main] INFO  com.bridgelabz.base.Base  - entering search text
+[main] INFO  com.bridgelabz.base.Base  - clicking search btn
+[main] INFO  com.bridgelabz.base.Base  - clicking signout btn
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Username and Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Username and Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signout btn
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - select department
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - select department
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - select department
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - select department
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - select department
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - select department
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] DEBUG freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[main] DEBUG freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[main] DEBUG freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password

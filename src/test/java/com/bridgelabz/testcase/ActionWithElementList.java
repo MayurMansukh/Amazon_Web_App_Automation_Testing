@@ -1,25 +1,32 @@
 package com.bridgelabz.testcase;
 
+import com.bridgelabz.listener.CustomListener;
 import com.bridgelabz.pages.LoginPage;
 import com.bridgelabz.pages.SearchPage;
 import com.bridgelabz.utils.ExcelUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-
-import java.io.IOException;
 import java.util.List;
 
+@Listeners(CustomListener.class)
 public class ActionWithElementList extends ExcelUtils {
 
 
     @Test(priority = 0)
-    public void verify_login_Page() throws IOException {
-        LoginPage loginObj = new LoginPage(driver);
-        loginObj.click_signin_btn();
-        loginObj.login(excelData(), excelData2());
-        if (driver.getCurrentUrl().matches("https://www.amazon.in/?ref_=nav_ya_signin&")) {
-        } else if (driver.getCurrentUrl().matches("https://www.amazon.in/ap/signin")) {
+    public void verify_login_Page()  {
+        try {
+            LoginPage loginObj = new LoginPage(driver);
+            loginObj.click_signin_btn();
+            loginObj.enter_username(excelData());
+            loginObj.enter_username(excelData2());
+            if (driver.getCurrentUrl().matches("https://www.amazon.in/?ref_=nav_ya_signin&")) {
+            } else if (driver.getCurrentUrl().matches("https://www.amazon.in/ap/signin")) {
+            }
+        }catch (Exception e){
+            e.getStackTrace();
         }
     }
 
@@ -41,6 +48,8 @@ public class ActionWithElementList extends ExcelUtils {
                 String name = webElement.getText();
                 System.out.println("\n" + name);
             }
-    }
+            driver.findElement(By.partialLinkText("HP X1000 Wired Mouse")).click();
+            Assert.assertEquals(driver.getCurrentUrl(),"https://www.amazon.in/s?k=Mouse&i=computers&ref=nb_sb_noss");
+            }
 
-}
+    }
