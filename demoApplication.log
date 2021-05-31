@@ -616,3 +616,11 @@
 [main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
 [main] INFO  com.bridgelabz.BASE.Base  - Entering username
 [main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password

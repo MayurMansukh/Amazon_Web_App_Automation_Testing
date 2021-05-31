@@ -2,6 +2,7 @@ package com.bridgelabz.testcase;
 import com.bridgelabz.BASE.Base;
 import com.bridgelabz.pages.LoginPage;
 import com.bridgelabz.utils.ConfigReader;
+import com.bridgelabz.utils.ExcelGenerateReport;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
@@ -13,6 +14,7 @@ import org.testng.annotations.Test;
 public class Test_object_properties_method extends Base {
     static ExtentTest test;
     static ExtentReports report;
+    static ExcelGenerateReport excelGenerateReport = new ExcelGenerateReport();
 
     @BeforeTest
     public void startTest()
@@ -35,8 +37,8 @@ public class Test_object_properties_method extends Base {
     }
 
     @AfterClass
-    public static void endTest()
-    {
+    public static void endTest() throws Exception {
+        excelGenerateReport.excelReport();
         report.endTest(test);
         report.flush();
     }
