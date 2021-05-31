@@ -532,3 +532,87 @@
 [main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
 [main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
 [main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] DEBUG org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: default
+[main] DEBUG org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Opening connection {}->http://localhost:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/127.0.0.1:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connect to localhost/127.0.0.1:4444 timed out. Connection will be retried using another IP address
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/[0:0:0:0:0:0:0:1]:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-0: Shutdown connection
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Connection discarded
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager is shutting down
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager shut down
+[main] DEBUG org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: default
+[main] DEBUG org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 1][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Opening connection {}->http://localhost:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/127.0.0.1:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connect to localhost/127.0.0.1:4444 timed out. Connection will be retried using another IP address
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/[0:0:0:0:0:0:0:1]:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-1: Shutdown connection
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Connection discarded
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 1][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager is shutting down
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager shut down
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording started
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording finished to C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_19_57.avi
+[main] INFO  com.automation.remarks.video.RecordingUtils  - No jenkinsUrl variable found.
+[main] INFO  com.automation.remarks.video.RecordingUtils  - Video recording: C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_19_57.avi
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording started
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording finished to C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_22_36.avi
+[main] INFO  com.automation.remarks.video.RecordingUtils  - No jenkinsUrl variable found.
+[main] INFO  com.automation.remarks.video.RecordingUtils  - Video recording: C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_22_36.avi
+[main] DEBUG org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: default
+[main] DEBUG org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Opening connection {}->http://localhost:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/127.0.0.1:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connect to localhost/127.0.0.1:4444 timed out. Connection will be retried using another IP address
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/[0:0:0:0:0:0:0:1]:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-0: Shutdown connection
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Connection discarded
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager is shutting down
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager shut down
+[main] DEBUG org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: default
+[main] DEBUG org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 1][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Opening connection {}->http://localhost:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/127.0.0.1:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connect to localhost/127.0.0.1:4444 timed out. Connection will be retried using another IP address
+[main] DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator  - Connecting to localhost/[0:0:0:0:0:0:0:1]:4444
+[main] DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-1: Shutdown connection
+[main] DEBUG org.apache.http.impl.execchain.MainClientExec  - Connection discarded
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 1][route: {}->http://localhost:4444][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager is shutting down
+[main] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager shut down
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording started
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording finished to C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_32_32.avi
+[main] INFO  com.automation.remarks.video.RecordingUtils  - No jenkinsUrl variable found.
+[main] INFO  com.automation.remarks.video.RecordingUtils  - Video recording: C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_32_32.avi
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording started
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording finished to C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_37_33.avi
+[main] INFO  com.automation.remarks.video.RecordingUtils  - No jenkinsUrl variable found.
+[main] INFO  com.automation.remarks.video.RecordingUtils  - Video recording: C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_13_37_33.avi
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording started
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording finished to C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_15_27_14.avi
+[main] INFO  com.automation.remarks.video.RecordingUtils  - No jenkinsUrl variable found.
+[main] INFO  com.automation.remarks.video.RecordingUtils  - Video recording: C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_15_27_14.avi
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording started
+[main] INFO  com.automation.remarks.video.recorder.monte.MonteRecorder  - Recording finished to C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_15_28_14.avi
+[main] INFO  com.automation.remarks.video.RecordingUtils  - No jenkinsUrl variable found.
+[main] INFO  com.automation.remarks.video.RecordingUtils  - Video recording: C:\Users\admin\IdeaProjects\Amz_Web_App_Automation\video\uploadFile_recording_2021_31_05_15_28_14.avi
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] WARN  com.bridgelabz.pages.LoginPage  - Test is started
+[main] INFO  com.bridgelabz.BASE.Base  - clicking signIn btn
+[main] INFO  com.bridgelabz.BASE.Base  - Entering username
+[main] INFO  com.bridgelabz.BASE.Base  - Entering Password

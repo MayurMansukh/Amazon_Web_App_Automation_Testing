@@ -14,7 +14,6 @@ import com.bridgelabz.utils.ExcelUtils;
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-import java.io.IOException;
 
 @Listeners(CustomListener.class)
 public class Amazon_WebPage extends ExcelUtils  {

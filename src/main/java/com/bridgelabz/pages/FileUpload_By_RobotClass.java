@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import java.awt.*;
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
-import java.util.List;
 
 public class FileUpload_By_RobotClass {
     public WebDriver driver;
@@ -64,7 +63,7 @@ public class FileUpload_By_RobotClass {
     public void register() {
         robot.delay(500);
         name.sendKeys("MayurMansukh");
-        email.sendKeys("MansukhMayur99@mail503.com");
+        email.sendKeys("MansukhMayur99@mail593.com");
         mobile.sendKeys("9189770098");
 
         experience.click();

@@ -1,5 +1,7 @@
 package com.bridgelabz.BASE;
 
+import atu.testrecorder.ATUTestRecorder;
+import atu.testrecorder.exceptions.ATUTestRecorderException;
 import com.bridgelabz.utils.ConfigReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.log4j.Logger;
@@ -21,6 +23,7 @@ public class Base {
 
     public static WebDriver driver;
     public static Logger logger = Logger.getLogger(Base.class);
+    ATUTestRecorder recorder;
 
 
     @BeforeTest
@@ -29,7 +32,11 @@ public class Base {
     }
 
     @BeforeTest
-    public void setup(){
+    public void setup() throws ATUTestRecorderException {
+        DateFormat dateFormat = new SimpleDateFormat("yy-MM-dd HH-mm-ss");
+        Date date = new Date();
+        recorder = new ATUTestRecorder("C:\\Users\\admin\\IdeaProjects\\Amz_Web_App_Automation\\TestRecordingFile","TestVideo-"+dateFormat.format(date),false);
+        recorder.start();
         ConfigReader config =new ConfigReader();
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
@@ -48,15 +55,17 @@ public class Base {
         } catch (InterruptedException e) {
             System.out.println(e.getMessage());
         }
-        driver.get("https://www.naukri.com/");
-        //driver.get(config.get_Amzone_SignIn_Path());
+        //driver.get("https://www.naukri.com/");
+        driver.get(config.get_Amzone_SignIn_Path());
 
     }
 
     @AfterTest
-    public void teardown() {
+    public void teardown() throws ATUTestRecorderException {
         //driver.quit();
-       //driver.close();
+        driver.close();
+        recorder.stop();;
+
     }
 
 
