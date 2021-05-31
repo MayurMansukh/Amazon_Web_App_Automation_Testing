@@ -5,7 +5,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import java.io.*;
 
 public class ExcelUtils extends ExcelUtilsBase {
-    static ExcelUtilsBase excelUtilsBase = new ExcelUtilsBase();
+    public static ExcelUtilsBase excelUtilsBase = new ExcelUtilsBase();
 
     public static String excelData() throws IOException {
         XSSFSheet sheet = excelUtilsBase.excel_utils_base().getSheetAt(0);

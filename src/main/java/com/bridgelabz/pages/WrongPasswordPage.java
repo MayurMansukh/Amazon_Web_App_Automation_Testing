@@ -22,7 +22,7 @@ public class WrongPasswordPage extends Base {
         driver.manage().window().maximize();
         driver.get("https://www.amazon.in/ap/signin");
         driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-        for (int i=1; i <= 15; i++) {
+        for (int i=1; i <= 3; i++) {
            robot.keyPress(KeyEvent.VK_TAB);
            robot.keyRelease(KeyEvent.VK_TAB);
        }

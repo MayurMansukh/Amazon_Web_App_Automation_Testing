@@ -3,21 +3,21 @@ package com.bridgelabz.testcase;
 import com.bridgelabz.BASE.Base;
 import com.bridgelabz.pages.LoginPage;
 import com.bridgelabz.pages.SignOutPage;
-import com.bridgelabz.pages.WrongPasswordPage;
 import com.bridgelabz.utils.ExcelUtilsBase;
+import com.bridgelabz.utils.Send_TestReport_By_Email;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.testng.annotations.Test;
 
 import java.awt.*;
 import java.io.IOException;
 
-public class Amazon_Login_DataSet extends Base {
+public class Amazon_Login_DataDrivenFramework extends Base {
+
     @Test
     public static void Amazon_Login_With_DataSet() throws IOException, AWTException {
         LoginPage loginObj = new LoginPage(driver);
         SignOutPage signOutPage = new SignOutPage(driver);
         ExcelUtilsBase excelBase = new ExcelUtilsBase();
-        WrongPasswordPage wrongPassword = new WrongPasswordPage();
         boolean check;
 
         XSSFSheet sheet = excelBase.excel_utils_base().getSheetAt(0);
@@ -28,19 +28,20 @@ public class Amazon_Login_DataSet extends Base {
             String password1 = String.valueOf(sheet.getRow(i).getCell(1));
 
             check = loginObj.enter_username(username1);
-             if(check) {
-                 check = loginObj.enter_password(password1);
-                 if (check)
-                 check = signOutPage.click_signOut_btn();
-                 if (check) {
-                     System.out.println("test sucess with data " + i);
-                     driver.get("https://www.amazon.in/");
-                 }
-             }
-            else {
-                System.out.println("test failed with data " + i);
-            }
-        }
+            if (check) {
+                check = loginObj.enter_password(password1);
+                if (check) {
+                    check = signOutPage.click_signOut_btn();
+                    if (check) {
+                        System.out.println("test sucess with data " + i);
+                        driver.get("https://www.amazon.in/");
+                    }
+                } else {
+                    System.out.println("test failed with data " + i);
+                }
 
+            }
+
+        }
     }
 }
